@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="app_name_2">Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_hint">Type Your Message Here</string>
+    <string name="friend">Friend Name</string>
+
+    <string-array name="friends">
+        <item>Rakiba</item>
+        <item>Ayesha</item>
+        <item>Masud</item>
+        <item>Delwar</item>
+    </string-array>
+
+</resources>
